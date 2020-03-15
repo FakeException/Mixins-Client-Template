@@ -1,0 +1,15 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[28,)" #mandatory (26 is current forge version)
+
+[[mods]] #mandatory
+
+modId="templateclient" #mandatory
+
+version="1.0" #mandatory
+
+displayName="TemplateClient" #mandatory
+
+description='''
+
+'''
